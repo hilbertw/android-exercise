@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Port Scan</string>
+    <string name="app_name">PortScan</string>    
+    <string name="start">Start</string>    
+    
+</resources>
